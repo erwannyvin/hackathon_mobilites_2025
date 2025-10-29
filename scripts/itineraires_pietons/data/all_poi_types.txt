@@ -1,0 +1,185 @@
+Lieu-dit non habité
+Restaurant
+Quartier
+Bois et forêt
+Restauration rapide
+Pont
+Parking vélo
+Café
+École élémentaire
+Boulangerie
+Epicerie
+Banque
+Boutique de vêtements
+Square
+Pharmacie
+Agence immobilière
+Bar
+Coiffeur
+École maternelle
+Cimetière
+Groupe scolaire
+Entreprise
+Poste
+Concessionnaire automobile
+Autre établissement d'enseignement
+Salon de beauté
+Collège et annexe
+Monument
+Parking P+R 
+Supermarché
+Médecin
+Hôtel
+Château
+Bibliothèque, Ludothèque, Médiathèque
+Lycée et annexe
+Terrain de basket-ball
+Boulodrome
+Boucherie
+Opticien
+Ecole de conduite
+Assureur
+Dentiste
+Salle de danse
+Fleuriste
+Librairie
+Laverie
+Salle de fitness
+Administration publique
+Mairie
+Piscine
+Magasin d'alcool
+Théâtre
+Musée
+Pub
+Caserne de pompiers
+Mobilier et décoration d'intérieur
+Magasin de vélos et accessoires
+Primeur
+Université
+Centre sportif 
+Pressing
+Bijouterie
+Hôpital
+Galerie
+Magasin de chaussures
+Magasin de téléphonie
+Chocolatier
+Police
+Galerie d'art
+Salle de concert et/ou spectacle
+Lieu de culte 
+Pompes funèbres
+Magasin de décoration d'intérieur
+Skateparc
+Traiteur
+Magasin de produits surgelés
+Boutique de cadeaux
+Centre d'Art
+Boutique
+Buraliste
+Salon de massage
+Magasin de bricolage
+Magasin de cosmétiques
+Magasin de motos
+Cuisiniste
+Bureau de tabac
+Antiquaire
+Esplanade
+Agence de voyage
+Salle de cinéma
+Magasin d'équipements informatiques
+Salle d'exposition
+Audioprothésiste
+Magasin d'articles de sport
+Magasin d'électroménager
+Pâtisserie
+Clinique ou polyclinique
+Boutique de reprographie/impression
+Golf
+Fromager
+Halte fluviale
+Studio de dance
+Caviste
+Conservatoire de musique
+Disquaire
+Studio audio-visuel
+Glacier
+Syndicat d'initiative
+Salon de tatouage
+Vestige archéologique
+Animalerie
+Serrurier
+Magasin de literie
+Magasin de jouets
+Quincaillerie
+Vente de peinture
+Bureaux coworking
+Ecole de santé
+Tailleur
+Boutique d'accessoires de mode
+Consulat/Ambassade 
+Papeterie
+Parfumerie
+Marché couvert
+Grande école
+Magasin d'articles d'occasion
+Magasin d'articles ménagers
+Parc
+Magasin de tissus
+Poissonnier
+Péage
+Confiserie
+Lieu d'événement
+Boîte de nuit
+Boutique de CBD
+Espaces coworking
+Salle d'escape game
+Magasin photo
+Enceinte militaire
+Magasin de café
+Ecole de langues
+Magasin d'arts et loisirs créatifs
+Parc de loisirs
+Bowling
+Droguerie
+Jardin remarquable
+Base de loisirs nautique
+Mercerie
+Boutique de jeux
+Vente d'encadrements
+Aérodrome non militaire
+Centre de conférence
+Salle de sport 
+Salle d'arcade
+Centre commercial
+Magasin de thés
+Administration
+Sauna
+Justice
+SEGPA
+Magasin de montres
+Patinoire
+Ecole de gestion et de commerce
+Terrain de baseball
+Terrain de camping
+Ecole des métiers, Ecole d'art
+Auditorium
+Salle de conférence ou de réception
+Parc zoologique
+Établissement public territorial
+Parc des expositions
+Magasin de poterie
+Fonction publique territoriale
+Cirque
+Location et vente de vidéos
+Aéroport international
+Aérodrome militaire
+Centre d'évènement
+Stade
+Etablissement régional enseignement adapté
+Crématorium
+Magasin aquariophilie
+Prison
+Hôtel de région
+Salle de concert
