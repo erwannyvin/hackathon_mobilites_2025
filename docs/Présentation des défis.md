@@ -64,7 +64,7 @@ Concevoir des outils de simulation des consommations de CO2 selon différents sc
 _Les données publiées [sont accessibles ici](https://airtable.com/appoPX9ywWeRtE2ZX/shrEP0lYtNSixQRZE). Vous pouvez utiliser un filtre pour voir les données spécifiques au Défi 2. D'autres données sont à venir !_
 
 
-## Défi 3 - Créer des outils en faveur des mobilités durables pour les collectivités franciliennes
+## Défi 3 - Créer des outils en faveur des mobilités durables pour les collectivités franciliennes 
 
 ### Contexte
 Île-de-France Mobilités accompagne les collectivités dans la définition et la mise en oeuvre des plans locaux de mobilités (par exemple en produisant des guides pratiques ou en finançant directement des infrastructures). Elle met également à disposition sur sa Plateforme Régionale d’Information pour la Mobilité (PRIM) des données statiques utiles (plan du réseau, horaires…) et dynamiques (informations trafic…).

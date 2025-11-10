@@ -13,9 +13,9 @@ L’objectif est d’explorer comment les données, leurs traitements et leurs r
 Nous avons ainsi formulé plusieurs défis et mettrons à la disposition des candidats des données et ressources adaptées pour y répondre.
 
 Cette année nous vous proposons 4 défis :
-- **Défi 1** - Évaluer l’impact des **mobilités actives** et de l’intermodalité
+- **Défi 1** - **Mobilités actives** et intermodalité : évaluation d’impact et propositions d’outils
 - **Défi 2** - Aider les entreprises à **décarboner** les mobilités de leurs salariés
-- **Défi 3** - Créer des **outils d’analyses** des mobilités pour les collectivités franciliennes
+- **Défi 3** - Créer des **outils** en faveur des mobilités durables pour les collectivités franciliennes 
 - **Défi 4** - Améliorer **l’accessibilité et le confort** des services de mobilités
 
 

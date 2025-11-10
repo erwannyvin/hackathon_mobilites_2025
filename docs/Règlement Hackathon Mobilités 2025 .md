@@ -49,10 +49,10 @@ L'objectif est de faire émerger des idées et des prototypes pour explorer les 
 
 Île-de-France Mobilités a ainsi formulé plusieurs défis et mettra à la disposition des candidat·e·s des données et ressources adaptées.
 
-* **Défi 1** \- Évaluer l’impact des mobilités actives et de l’intermodalité  
+* **Défi 1** \- Mobilités actives et intermodalité : évaluation d’impact et propositions d’outils  
 * **Défi 2** \- Aider les entreprises à décarboner leurs mobilités  
 * **Défi 3** \- Créer des outils en faveur des mobilités durables pour les collectivités franciliennes  
-* **Défi 4** \- Améliorer le confort et l’accessibilité dans les services de mobilités
+* **Défi 4** \- Améliorer l’accessibilité et le confort dans les services de mobilités
 
 Pour chaque défi, les participant·e·s pourront explorer des pistes suggérées dans les descriptions ou bien explorer leurs propres voies tout en restant dans le thème du défi choisi. La sobriété dans l’usage des données et des modèles peut être au service de la créativité dans les solutions proposées. 
 
