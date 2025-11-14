@@ -19,5 +19,17 @@ class CartePmrJob(JobRunner):
                 "facilite_acces", "nombre_facilite_acces_station", "station_clean"]
         df_final = df[cols]
 
+        # Create a mapping dictionary
+        color_map = {
+            'green': 1,
+            'black': 2,
+            'yellow': 3,
+            'white': 4,
+            'grey': 5
+        }
+
+        # Map the colors to numbers in a new column
+        df_final['facilite_acces_order'] = df_final['facilite_acces_code'].map(color_map)
+        
         # Ecriture des données en format parquet
         WriterLocal.write_parquet(df_final, self.out_path)
