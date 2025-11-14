@@ -23,8 +23,8 @@ class RefGareIdfJob(JobRunner):
         # Séparation des coordonnées
         coords = df_selected["geo_point_2d"].str.split(",", expand=True)
         df_selected = df_selected.copy()
-        df_selected["longitude"] = coords[0].astype(float)
-        df_selected["latitude"] = coords[1].astype(float)
+        df_selected["latitude"] = coords[0].astype(float)
+        df_selected["longitude"] = coords[1].astype(float)
 
         gdf_final = Transformation.transform_geopandas(df_selected, "latitude", "longitude")
 

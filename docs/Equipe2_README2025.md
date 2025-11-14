@@ -16,19 +16,17 @@ Rendre accessible le réseau de transport en île de France est un vrai défi et
 - les mainteneurs sur le réseau
 - les décideurs des projets de rénovation et de mise en accessibilité du réseau 
 
-Dans un second temps, en pouvant coupler cet outil à une recherche d'itinéraire, nos usagers cibles pourraient aussi être des personnes en situation de handicap : 
-* mental
-* moteur
-* visuel
-* auditif
-* dû à l'âge
+Dans un second temps, en pouvant coupler cet outil à une recherche d'itinéraire, nos usagers cibles pourraient aussi être des personnes en situation de handicap (mental, moteur, visuel, auditif, dû à l'âge) pour leur permettre de trouver des **itinéraires accessibles**.
+
 
 ### La solution
-Il s'agit d'un démonstrateur représentant sur une même carte la facilité d'accès des gares et stations, les lieux générateurs de flux PMR, les stations et gares sur lesquelles les validations de personnes âgées sont les plus importante et de proposer, l'état des ascenseurs et escaliers mécaniques des espaces.
-Différentes vues des stations et gares peuvent être proposées à l'utilisateur :
-- selon leur facilité d'accès (nomenclature IDFM)
-- selon leur niveau de criticité (adéquation offre/demande d'accessibilité), avec les recommandations d'actions associées : ajout d'ascenseur ou d'escalier mécanique
-- selon leur besoin en maintenance : priorisation des réparations/remplacements d'ascenseurs ou d'escalier mécanique en fonction de la demande d'accessibilité
+Il s'agit d'un démonstrateur représentant sur une même carte  : 
+* la facilité d'accès des gares et stations, 
+* les lieux générateurs de flux PMR, 
+* les stations et gares sur lesquelles les validations de personnes âgées sont les plus importantes
+* l'état des ascenseurs et escaliers mécaniques des espaces.
+
+Un indicateur de type **score d'accessibilité** sera proposé pour chaque station du réseau afin d'aider les mainteneurs et les décideurs à prioriser les chantiers de rénovation et de mise en accessibilité du réseau.
 
 ## Les données mobilisées :
 
@@ -59,7 +57,10 @@ Différentes vues des stations et gares peuvent être proposées à l'utilisateu
 ## Installation et utilisation
 > [!TIP]
 > Si vous avez le temps, vous pouvez décrire les étapes d'installation de votre projet (commandes à lancer, ...) et son fonctionnement.
+`git clone https://github.com/hackathons-mobilites/hackathon_mobilites_2025.git`
+`pip install -r requirements.txt`
 
+Carte
 
 ## La licence
 > Ici, il faut décrire la ou les licences du projet. Vous pouvez utiliser la licence [MIT](LICENSE), qui est très permissive. Si on souhaite s'assurer que les dérivés du projet restent Open-Source, vous pouvez utiliser la licence [GPLv3](https://github.com/Illumina/licenses/blob/master/gpl-3.0.txt).

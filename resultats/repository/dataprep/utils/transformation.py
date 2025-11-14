@@ -70,7 +70,7 @@ class Transformation:
             df["geometry"] = df.apply(lambda row: Point(row[longitude], row[latitude]), axis=1)
 
             gdf = gpd.GeoDataFrame(df, geometry="geometry", crs="EPSG:4326")
-            return gdf.drop(columns=[longitude, latitude])
+            return gdf
 
         except Exception as e:
             raise ValueError(f"Erreur lors de la conversion en GeoDataFrame : {e}")
