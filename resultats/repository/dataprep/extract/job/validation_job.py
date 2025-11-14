@@ -20,7 +20,7 @@ class ValidationJob(JobRunner):
             dataframes.append(df)
         df_concat = pd.concat(dataframes, ignore_index=True)
         df_concat['id_zdc'] = pd.to_numeric(df_concat['id_zdc'], errors='coerce')
-        df_concat['nb_vald'] = pd.to_numeric(df_concat['id_zdc'], errors='coerce')
+        df_concat['nb_vald'] = pd.to_numeric(df_concat['nb_vald'].apply(lambda x: x.replace(' ', '') if type(x) is str else x), errors='coerce')
 
         # Total par id_zdc
         df_total = df_concat.groupby('id_zdc', as_index=False).agg(
